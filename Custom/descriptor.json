@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
     "Name": "Custom",
-    "ModifiedOnUtc": "\/Date(1717281234000)\/",
+    "ModifiedOnUtc": "\/Date(1717357139000)\/",
     "Maintainer": "Customer",
     "Description": "Custom Package",
     "DependsOn": [
@@ -145,6 +145,12 @@
         "Name": "SspWorkplace"
       },
       {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
         "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
         "PackageVersion": "7.8.0",
         "Name": "ProductCore"
@@ -180,6 +186,12 @@
         "UId": "36d65faf-3f18-1cae-d2cb-b71c4414d164",
         "PackageVersion": "7.8.0",
         "Name": "Playbook"
+      },
+      {
+        "UId": "379003f3-74dc-4305-c4de-04f43be2bfb0",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360Mobile",
+        "Type": 1
       },
       {
         "UId": "39d703cc-a16f-4e81-8304-304288ac685a",
