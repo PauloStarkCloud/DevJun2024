@@ -1,0 +1,11 @@
+﻿{
+  "Descriptor": {
+    "UId": "7b49d44f-c40d-403c-9943-8b6604c5c9b4",
+    "Name": "UsrApp_jhnordv",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(-62135586000000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_jhnordv.csproj",
+    "DependsOn": []
+  }
+}

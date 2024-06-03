@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
     "Name": "Custom",
-    "ModifiedOnUtc": "\/Date(1717357139000)\/",
+    "ModifiedOnUtc": "\/Date(1717427554000)\/",
     "Maintainer": "Customer",
     "Description": "Custom Package",
     "DependsOn": [
@@ -59,6 +59,11 @@
         "Name": "BaseScoring"
       },
       {
+        "UId": "06b2f9c5-2217-4cca-9749-77d954e77765",
+        "PackageVersion": "1.0.0",
+        "Name": "GlbDataBinding"
+      },
+      {
         "UId": "06d9ef10-51d8-122c-8933-9212e84236c9",
         "PackageVersion": "7.8.0",
         "Name": "CrtBase"
@@ -72,6 +77,11 @@
         "UId": "09869c10-1e01-f34c-e963-d3f5290feef6",
         "PackageVersion": "7.8.0",
         "Name": "FolderTree"
+      },
+      {
+        "UId": "0aa2f897-1f57-bf7c-0e32-47a96643ffbd",
+        "Name": "CSL_MaintenanceTools",
+        "Type": 1
       },
       {
         "UId": "0d13113a-287e-c0ff-f4f6-cf9ec5dddf35",
@@ -305,6 +315,11 @@
         "Name": "CalendarBase"
       },
       {
+        "UId": "6690397d-306a-486f-878e-4d99c0f3644d",
+        "Name": "UsrRealtyFreedomUI",
+        "Type": 1
+      },
+      {
         "UId": "6f46362b-0d60-47d7-b211-fc5e4117aecb",
         "PackageVersion": "7.8.0",
         "Name": "ProcessDesigner"
@@ -350,6 +365,11 @@
         "UId": "7aba540c-a7dc-465e-8a22-54ef78fcb5a5",
         "PackageVersion": "7.8.0",
         "Name": "SocialMessagePublisher"
+      },
+      {
+        "UId": "7b49d44f-c40d-403c-9943-8b6604c5c9b4",
+        "Name": "UsrApp_jhnordv",
+        "Type": 1
       },
       {
         "UId": "7b8cc90f-3354-9b16-defe-bff33fc9cf26",

@@ -1,0 +1,20 @@
+{
+	"PackageData": [
+		{
+			"Row": [
+				{
+					"SchemaColumnUId": "631e7238-2751-4a21-b6d6-9f1ac0c84f95",
+					"Value": "06f3e25c-918e-44ea-90d0-b5f6bf07f6c8"
+				},
+				{
+					"SchemaColumnUId": "8585929c-62ae-4673-ae8d-bb37f87e5144",
+					"Value": "5c4a3ca7-3527-4da1-8d76-a714ac2d28ed"
+				},
+				{
+					"SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+					"Value": "67abf876-15cb-4470-9105-48896bd6d4c5"
+				}
+			]
+		}
+	]
+}
